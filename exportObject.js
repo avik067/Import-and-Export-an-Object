@@ -1,1 +1,2 @@
-const obj = { firstName: "John", lastName: "Wilson" };
+const ob = { firstName: "John", lastName: "Wilson" };
+module.exports = ob;
